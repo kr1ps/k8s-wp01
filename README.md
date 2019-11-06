@@ -1,17 +1,19 @@
 # k8s-wp01
-Wordpress / mysql k8s project for learning purpose
 
-Simple project for learning how to propper desing a manifest of a deploy for a service in kubernetes.
+Wordpress / Mysql k8s project for learning
 
+Simple project for learning how to propper design a manifest of a deploy for service in Kubernetes.
 
-# kustomization.yaml #
+This simple project has the following:
 
-File to management of kubernets objects
+# 1. kustomization.yaml #
 
-# mysql-deployment.yaml #
+File to the management of different Kubernetes objects
 
-File with the one instance mysql with persistant data
+# 2. mysql-deployment.yaml #
 
-# wordpress-deployment.yaml #
+Yaml file with the description of one instance MySQL with persistent data
 
-File with the wordpress installation with persistant data
+# 3. wordpress-deployment.yaml #
+
+Yaml file with the description of the WordPress installation with persistent data
