@@ -1,0 +1,10 @@
+*usefull kubectl commands*
+
+1- kubectl api-resources
+
+list all api-resources and their api-groups associate
+
+2- kubectl explain --api-version=apps/v1 replicaset
+
+describe an api-resource and it use
+
