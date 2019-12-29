@@ -8,3 +8,7 @@ list all api-resources and their api-groups associate
 
 describe an api-resource and it use
 
+3- kubectl create deployment nginx --image=nginx -o yaml --dry-run
+
+create a basic deployment manifest
+
